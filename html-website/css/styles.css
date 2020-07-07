@@ -1,0 +1,13 @@
+body{
+background-color: lightcoral;
+}
+h1 {color: #white;}
+h3 {color:#white}
+h2 {color: #white;}
+hr {
+border-color: lightgrey;
+border-style: none ;
+border-top-style: dotted ;
+border-width: 7px;
+width: 10%;
+}
